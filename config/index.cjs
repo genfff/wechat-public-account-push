@@ -14,16 +14,16 @@ const USER_CONFIG = {
   APP_SECRET: '8c2490e29aac59cd691ac09aae702e9a',
 
   PROVINCE: '天津',
-  CITY: '南开',
+  CITY: '天津',
 
   USERS: [
     {
       // 想要发送的人的名字
       name: '宝贝儿',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oOnIZ6BnJFaa3UNyHvtDWba97BT0',
+      id: 'oOnIZ6DqCE2mOKjfDJzUzCL6nKmU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'wukCMbqef-WjUYyEmVm_iwLNG9fPRJXdbLpTWZ2qSvs',
+      useTemplateId: 'wqLfKWNUq1mnaQ4LMjhn7aeW-0rUuHSrrigJiebPXzE',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-01',
       festivals: [
@@ -51,7 +51,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'wukCMbqef-WjUYyEmVm_iwLNG9fPRJXdbLpTWZ2qSvs',
+  CALLBACK_TEMPLATE_ID: '	wqLfKWNUq1mnaQ4LMjhn7aeW-0rUuHSrrigJiebPXzE',
 
   CALLBACK_USERS: [
     {
